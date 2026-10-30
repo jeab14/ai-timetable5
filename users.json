@@ -1,0 +1,13 @@
+{
+ "jiranan": {
+  "role": "admin",
+  "link": null,
+  "name": "นางสาวจิรนันท์ บุญเกิด",
+  "position": "รองผู้อำนวยการฝ่ายวิชาการ",
+  "student_code": "",
+  "salt": "3db2a6c0e6ebe02cd26a82d43b4f7156",
+  "password_hash": "510c16df0bf269474960ed3c925b608453087b97bca7673764e9c6ada97eb429",
+  "created_at": "29/10/2026 22:19",
+  "last_login": "29/10/2026 22:30"
+ }
+}
