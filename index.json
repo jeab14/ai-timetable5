@@ -1,0 +1,22 @@
+[
+ {
+  "id": "20261030140306_0e6197",
+  "name": "ชุดข้อมูล 30/10/2026 14:03",
+  "created_at": "30/10/2026 14:03",
+  "digest": "b5991428bf9d2174c60e8dcbb297158adb2a4433",
+  "placed": 342,
+  "required": 342,
+  "updated_at": "30/10/2026 14:03",
+  "files": [
+   "csv-20261030T024817Z-1-001.zip"
+  ],
+  "counts": {
+   "teachers": 25,
+   "groups": 12,
+   "subjects": 59,
+   "rooms": 28,
+   "register": 101
+  },
+  "size": 4809
+ }
+]
